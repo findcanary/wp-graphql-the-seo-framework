@@ -1,0 +1,5 @@
+{
+  "name": "findcanary/wp-graphql-the-seo-framework",
+  "description": "Adds The SEO framework support to the WPGraphQL Plugin for posts, pages and custom post types.",
+  "type": "wordpress-plugin"
+}
