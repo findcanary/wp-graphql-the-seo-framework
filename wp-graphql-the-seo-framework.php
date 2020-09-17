@@ -7,14 +7,14 @@
  * Requires at least: 5.0
  * Requires PHP:      7.3
  * Author:            Henrik Wirth, FindCanary.com
- * Author URI:        https://henrikwirth.com
- * License:           GPL v2 or later
- * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Author URI:        https://findcanary.com
+ * License:           GPL v3 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       wp-graphql-the-seo-framework
  *
  * @package wp-graphql-the-seo-framework
  * @category WPGraphQL_Extension
- * @author NeverNull, Henrik Wirth
+ * @author Henrik Wirth, FindCanary.com
  * @license  http://opensource.org/licenses/gpl-3.0 GNU General Public License, version 3 (GPLv3)
  * @link     https://github.com/fincanary/wp-graphql-the-seo-framework
  * @version 0.1.0
